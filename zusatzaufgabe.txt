@@ -1,3 +1,11 @@
 Habe etwas in die Datei reingeschrieben
 Datei nochmals bearbeitet
 Und hier noch mehr
+
+Nochmals mehr Text 
+Dieses Dokument richtet sich an den Git-Neuling. Wie der Titel "GIT - Lernen mit Beispielen" schon vermuten
+lässt, wird anhand von Beispielen das Handling mit Git erklärt. Es soll einen einfachen Einstieg in die
+Versionsverwaltung mit Git bieten.
+Der Hauptfokus liegt im Verstehen der Git-Konzepte und bei den Git-Befehlen. Auf die Funktionsweise von
+grafischen Git-Clients wird nicht eingegangen. Diese Anleitung ist in keinster Weise vollständig. Themen wie
+"Git downloaden" oder "Die Installation von Git" fehlen komplett! 
